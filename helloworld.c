@@ -3,6 +3,6 @@ main()
 {
   printf("hello world\r\n");
   Iam master  
-  add1
+  add2
   
 }
